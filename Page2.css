@@ -1,0 +1,15 @@
+
+
+.container-fluid {
+     background-color: black;
+     color: white;
+     display: flex;
+     justify-content: flex-start;
+     margin-left: 0;
+}
+
+.row {
+    background-color: lightgray;
+    display: flex;
+     justify-content: flex-end;
+}
