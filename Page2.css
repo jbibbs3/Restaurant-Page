@@ -6,10 +6,12 @@
      display: flex;
      justify-content: flex-start;
      margin-left: 0;
+     height: 250px;
 }
 
 .row {
     background-color: lightgray;
     display: flex;
      justify-content: flex-end;
+     height: 250px;
 }
